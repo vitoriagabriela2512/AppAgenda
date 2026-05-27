@@ -45,23 +45,23 @@ O projeto é composto pelas seguintes classes e arquivos:
 
 Arquivo	Função
 
-MainActivity.java	Tela de cadastro
+MainActivity.java -	Tela de cadastro
 
-ListarPessoasActitivity.java	Tela de listagem e pesquisa
+ListarPessoasActitivity.java -	Tela de listagem e pesquisa
 
-Pessoa.java	Classe entidade
+Pessoa.java	 - Classe entidade
 
-PessoaDAO.java	Classe CRUD
+PessoaDAO.java	- Classe CRUD
 
-Conexao.java	Conexão com SQLite
+Conexao.java	- Conexão com SQLite
 
-activity_main.xml	Layout principal
+activity_main.xml -	Layout principal
 
-activity_listar_pessoa_activity.xml	Layout da listagem
+activity_listar_pessoa_activity.xml	- Layout da listagem
 
-menu_principal.xml	Menu superior
+menu_principal.xml	- Menu superior
 
-menu_contexto.xml	Menu de contexto
+menu_contexto.xml	- Menu de contexto
 
 📱 Funcionalidades
 
