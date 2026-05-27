@@ -305,3 +305,10 @@ Atualizar registros;
 Excluir registros;
 
 Funcionar corretamente em emuladores e dispositivos Android.
+
+👨‍💻 Desenvolvedora
+
+Projeto desenvolvido para fins acadêmicos utilizando Java e Android Studio 
+Feito por: Vitória Gabriela Fernandes da Luz.
+
+
